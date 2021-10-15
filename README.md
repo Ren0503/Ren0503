@@ -3,7 +3,7 @@
 I am Fullstack Developer student<br/>
 I am interested in learning DS, ML, AI and would 💖 to grow my knowledge in these Technologies.
 
-<img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
+<img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="250" />
 
 - 🌱 I’m currently learning Fullstack Development.
 - 👯 I’m looking to collaborate with Fullstack Webs.
@@ -74,7 +74,7 @@ Languages and Tools🛠:
 ### Github Activity ✔:
 
 <a href="https://github.com/Ren0503">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ren0503&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ren0503&theme=tokyonight" />
   </a>
 
 <br/>
