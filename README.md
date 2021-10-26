@@ -74,8 +74,12 @@ Languages and Tools🛠:
 ### Github Activity ✔:
 
 <a href="https://github.com/Ren0503">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ren0503&theme=tokyonight" />
-  </a>
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ren0503&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/Ren0503">
+  <img  src="https://activity-graph.herokuapp.com/graph?username=Ren0503&theme=github" />
+</a>
 
 <br/>
 <br/>
