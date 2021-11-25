@@ -85,10 +85,6 @@ Languages and Tools🛠:
 <br/>
 <br/>
 
-<a href="https://github.com/Ren0503">
-  <img  src="https://activity-graph.herokuapp.com/graph?username=Ren0503&theme=github" />
-</a>
-
 <br/>
 <br/>
 <br/>
