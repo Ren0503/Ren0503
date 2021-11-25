@@ -71,7 +71,9 @@ Languages and Tools🛠:
 
 ---
 
-### Github Activity ✔:
+### Github Activity 
+
+<div>
 
 <a href="https://github.com/Ren0503">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ren0503&langs_count=6&theme=tokyonight" />
@@ -85,9 +87,7 @@ Languages and Tools🛠:
 <br/>
 <br/>
 
-<br/>
-<br/>
-<br/>
+</div>
 
 ### My Projects ✨:
   
