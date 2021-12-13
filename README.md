@@ -107,6 +107,14 @@ Languages and Tools🛠:
 <a href="https://github.com/Ren0503/magnifier-js-forum">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ren0503&repo=magnifier-js-forum&theme=tokyonight" />
 </a>
+                                                                                                                                    
+<a href="https://github.com/Ren0503/infinity-js-chat">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ren0503&repo=infinity-js-chat&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/Ren0503/candleppy-ts-stories">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ren0503&repo=candleppy-ts-stories&theme=tokyonight" />
+</a>
 
 <div align="center">
   
