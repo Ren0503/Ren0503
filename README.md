@@ -95,27 +95,27 @@ Languages and Tools🛠:
 #### JavaScripts Ecosystem
   
 <a href="https://github.com/Ren0503/crushbook-js-ecommerce">
-  <img align="left" height="200" src="https://github.com/Ren0503/crushbook-js-ecommerce/blob/master/client/src/assets/images/header.png" />
+  <img align="left" height="150" src="https://github.com/Ren0503/crushbook-js-ecommerce/blob/master/client/src/assets/images/header.png" />
 </a>
 
 <a href="https://github.com/Ren0503/limbo-js-social-network">
-  <img align="left" height="200" src="https://github.com/Ren0503/limbo-js-social-network/blob/master/client/src/assets/header.png" />
+  <img align="left" height="150" src="https://github.com/Ren0503/limbo-js-social-network/blob/master/client/src/assets/header.png" />
 </a>
 
 <a href="https://github.com/Ren0503/zenzen-js-share-video">
- <img align="center" src="https://github.com/Ren0503/zenzen-js-share-video/blob/master/client/src/assets/header.png" />
+ <img align="left" height="150" src="https://github.com/Ren0503/zenzen-js-share-video/blob/master/client/src/assets/header.png" />
 </a>
 
 <a href="https://github.com/Ren0503/magnifier-js-forum">
- <img align="center" src="https://github.com/Ren0503/magnifier-js-forum/blob/master/client/public/header.png" />
+ <img align="left" height="150" src="https://github.com/Ren0503/magnifier-js-forum/blob/master/client/public/header.png" />
 </a>
                                                                                                                                     
 <a href="https://github.com/Ren0503/infinity-js-chat">
- <img align="center" src="https://github.com/Ren0503/infinity-js-chat/blob/master/client/src/assets/header.png" />
+ <img align="left" height="150" src="https://github.com/Ren0503/infinity-js-chat/blob/master/client/src/assets/header.png" />
 </a>
 
 <a href="https://github.com/Ren0503/thoth-js-blogpost">
- <img align="center" src="https://github.com/Ren0503/thoth-js-blogpost/blob/master/client/src/assets/header.png" />
+ <img align="left" height="150" src="https://github.com/Ren0503/thoth-js-blogpost/blob/master/client/src/assets/header.png" />
 </a>
 
 <div align="center">
