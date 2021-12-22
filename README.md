@@ -91,29 +91,31 @@ Languages and Tools🛠:
 </div>
 
 ### My Projects ✨:
+                                                                                                                                                                                          
+#### JavaScripts Ecosystem
   
 <a href="https://github.com/Ren0503/crushbook-js-ecommerce">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ren0503&repo=crushbook-js-ecommerce&theme=tokyonight" />
+  <img align="center" src="https://github.com/Ren0503/crushbook-js-ecommerce/blob/master/client/src/assets/images/header.png" />
 </a>
 
 <a href="https://github.com/Ren0503/limbo-js-social-network">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ren0503&repo=limbo-js-social-network&theme=tokyonight" />
+  <img align="center" src="https://github.com/Ren0503/limbo-js-social-network/blob/master/client/src/assets/header.png" />
 </a>
 
 <a href="https://github.com/Ren0503/zenzen-js-share-video">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ren0503&repo=zenzen-js-share-video&theme=tokyonight" />
+ <img align="center" src="https://github.com/Ren0503/zenzen-js-share-video/blob/master/client/src/assets/header.png" />
 </a>
 
 <a href="https://github.com/Ren0503/magnifier-js-forum">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ren0503&repo=magnifier-js-forum&theme=tokyonight" />
+ <img align="center" src="https://github.com/Ren0503/magnifier-js-forum/blob/master/client/public/header.png" />
 </a>
                                                                                                                                     
 <a href="https://github.com/Ren0503/infinity-js-chat">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ren0503&repo=infinity-js-chat&theme=tokyonight" />
+ <img align="center" src="https://github.com/Ren0503/infinity-js-chat/blob/master/client/src/assets/header.png" />
 </a>
 
-<a href="https://github.com/Ren0503/candleppy-ts-stories">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ren0503&repo=candleppy-ts-stories&theme=tokyonight" />
+<a href="https://github.com/Ren0503/thoth-js-blogpost">
+ <img align="center" src="https://github.com/Ren0503/thoth-js-blogpost/blob/master/client/src/assets/header.png" />
 </a>
 
 <div align="center">
@@ -125,4 +127,4 @@ Languages and Tools🛠:
 -----
 Credits: [Ren0503](https://github.com/Ren0503)
 
-Last Edited on: 15/10/2021
+Last Edited on: 15/12/2021
