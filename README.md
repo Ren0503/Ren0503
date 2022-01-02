@@ -36,6 +36,9 @@ Languages and Tools🛠:
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
 </details>
 
 ---
@@ -91,9 +94,7 @@ Languages and Tools🛠:
 </div>
 
 ### My Projects ✨:
-                                                                                                                                                                                          
-### JavaScripts Ecosystem:
-  
+                                                                                                                                                                                            
 <a href="https://github.com/Ren0503/crushbook-js-ecommerce">
   <img align="center" height="100" src="https://github.com/Ren0503/crushbook-js-ecommerce/blob/master/client/src/assets/images/header.png" />
 </a>
