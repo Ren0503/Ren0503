@@ -94,6 +94,9 @@ Languages and Tools🛠:
 </a>
 
 <br/>
+<a href="https://github.com/Ren0503">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=ren0503&column=7&theme=onedark" />
+</a>
 <br/>
 <br/>
 
