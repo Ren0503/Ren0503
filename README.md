@@ -1,6 +1,6 @@
 
 ### About me🧑:
-I am Fullstack Developer student<br/>
+I am Backend Developer<br/>
 I am interested in learning Programing Language, Web Framework and would 💖 to grow my knowledge in these Technologies.
 
 <img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="250" />
@@ -91,7 +91,11 @@ Languages and Tools🛠:
 <br/>
 <br/>
 
-</div>                                                                                                                 
+</div>   
+
+### Coding Activity
+
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@596ea32e-dbf3-4879-bad6-bb91b2841f50/dec4a404-fa23-4ed7-bc85-23642461347c.png" /></a>
 
 <div align="center">
   
