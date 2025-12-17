@@ -95,7 +95,7 @@ Languages and Tools🛠:
 
 ### Coding Activity
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@596ea32e-dbf3-4879-bad6-bb91b2841f50/dec4a404-fa23-4ed7-bc85-23642461347c.png" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@596ea32e-dbf3-4879-bad6-bb91b2841f50/aa646d2e-a4a2-4252-a5f9-f815101cb930.svg" /></a>
 
 <div align="center">
   
