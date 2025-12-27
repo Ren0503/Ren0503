@@ -1,9 +1,10 @@
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Ren0503&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
 
 ### About me🧑:
 I am Backend Developer<br/>
 I am interested in learning Programing Language, Web Framework and would 💖 to grow my knowledge in these Technologies.
 
-<img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="250" />
+<img align="right" src="https://count.getloli.com/@Ren0503?name=Ren0503&theme=capoo-2&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" />
 
 - 🌱 I’m currently learning Fullstack Development.
 - 👯 I’m looking to collaborate with Fullstack Webs.
